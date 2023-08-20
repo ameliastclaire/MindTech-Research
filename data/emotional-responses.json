@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "user_id": 1,
+      "session_date": "2023-01-01",
+      "emotions": {
+        "joy": 0.6,
+        "anger": 0.1,
+        "sadness": 0.2,
+        "fear": 0.1
+      }
+    },
+    {
+      "user_id": 1,
+      "session_date": "2023-01-02",
+      "emotions": {
+        "joy": 0.7,
+        "anger": 0.2,
+        "sadness": 0.1,
+        "fear": 0.1
+      }
+    },
+    {
+      "user_id": 2,
+      "session_date": "2023-01-01",
+      "emotions": {
+        "joy": 0.5,
+        "anger": 0.2,
+        "sadness": 0.1,
+        "fear": 0.2
+      }
+    },
+    {
+      "user_id": 2,
+      "session_date": "2023-01-02",
+      "emotions": {
+        "joy": 0.4,
+        "anger": 0.3,
+        "sadness": 0.2,
+        "fear": 0.1
+      }
+    }
+  ]
+}
